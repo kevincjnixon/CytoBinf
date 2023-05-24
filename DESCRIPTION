@@ -1,0 +1,15 @@
+Package: CytoBinf
+Type: Package
+Title: Cytoscape automation with BinfTools-generated tables
+Version: 0.1.0
+Author: person(given = "Kevin CJ",
+           family = "Nixon",
+           role = c("aut", "cre"),
+           email = "kevinnixon@hotmail.ca")
+Description: "This package is for use with the BinfTools package. It is intended to make
+  Cytoscape automation with results generated using BinfTools easier by wrapping Rcy3. Some code and the 
+  original idea comes from the Bader Lab (see https://bioconductor.github.io/BiocWorkshops/cytoscape-automation-in-r-using-rcy3.html#use-case-3---functional-enrichment-of-omics-set.
+  for more information.)"
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
